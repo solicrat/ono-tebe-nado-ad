@@ -1,1 +1,2 @@
-https://github.com/solicrat/posmotri-v-okno-ad
+
+https://github.com/solicrat/ono-tebe-nado-ad
